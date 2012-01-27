@@ -1,1 +1,1 @@
-The AMySQL project has been renamed to UltraMySQL. Please update your bookmarks and git urls to [http:/www.github.com/esnme/ultramysql](http:/www.github.com/esnme/ultramysql)
+The AMySQL project has been renamed to UltraMySQL. Please update your bookmarks and git urls to [https://www.github.com/esnme/ultramysql](https://www.github.com/esnme/ultramysql)
